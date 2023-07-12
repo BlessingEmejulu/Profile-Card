@@ -60,7 +60,7 @@ span, p{
     flex-direction:row;
     justify-content: space-between;
     padding: 30px;
-   transform: translateY(15%);
+   transform: translateY(-15%);
 }
 
 .detail p{
